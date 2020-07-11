@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f246c26-f61d-4fff-afd8-c700c0ca6b42" name="Default Changelist" comment="" />
+    <list default="true" id="1f246c26-f61d-4fff-afd8-c700c0ca6b42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z8B2iyjD8wXw3RLDanj6Dy0k6s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,13 +31,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.NestedIF_exercise">
-    <configuration name="AgeGroups_NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.AgeGroups_NestedIF" />
+  <component name="RunManager" selected="Application.ConstructorCalling2">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recaps.SuperVsThis.Car" />
       <module name="UDEMY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="Recaps.SuperVsThis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -37,12 +45,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanFromMuro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.LoanFromMuro" />
+    <configuration name="ConstructorCalling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recaps.Inheritence.ConstructorCalling2" />
       <module name="UDEMY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="Recaps.Inheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recaps.Inheritence.EmployeeObject" />
+      <module name="UDEMY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recaps.Inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,25 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealLoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.RealLoan" />
+    <configuration name="bankAccountObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recaps.bankAccountObject" />
       <module name="UDEMY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scanner_Nested_Mixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Scanner_Nested_Mixed" />
-      <module name="UDEMY" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="Recaps.Inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorCalling2" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.EmployeeObject" />
+        <item itemvalue="Application.bankAccountObject" />
         <item itemvalue="Application.NestedIF_exercise" />
-        <item itemvalue="Application.AgeGroups_NestedIF" />
-        <item itemvalue="Application.RealLoan" />
-        <item itemvalue="Application.Scanner_Nested_Mixed" />
-        <item itemvalue="Application.LoanFromMuro" />
       </list>
     </recent_temporary>
   </component>
@@ -113,58 +121,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="81" key="#Scopes" timestamp="1584287264582">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="332" y="81" key="#Scopes/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584287264582" />
-    <state x="494" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584225956859">
-      <screen x="0" y="23" width="1440" height="816" />
-    </state>
-    <state x="494" y="33" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584225956859" />
-    <state x="470" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584226460628">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="470" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584226460628" />
-    <state x="470" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584226246909" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585332619133">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585267714812" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1584216604910" />
-    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584294697202" />
-    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584296140609" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.23.1920.1057@0.23.1440.821" timestamp="1585332619133" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585332619130">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585267714809" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1584216604909" />
-    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584294697201" />
-    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584296140609" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.821/1440.23.1920.1057@0.23.1440.821" timestamp="1585332619130" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585332619129">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585267714805" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1584216604908" />
-    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584294697200" />
-    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584296140608" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.821/1440.23.1920.1057@0.23.1440.821" timestamp="1585332619129" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585332619131">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585267714810" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1584216604909" />
-    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584294697201" />
-    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1584296140609" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.821/1440.23.1920.1057@0.23.1440.821" timestamp="1585332619131" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585058600887">
+    <state x="460" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1594493316372">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585058600887" />
-    <state x="397" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1584287302563">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="460" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.84.1920.1080/1440.0.1920.1080@0.0.1440.900" timestamp="1594493316372" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1594493387181">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1584287302563" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.84.1920.1080/1440.0.1920.1080@0.0.1440.900" timestamp="1594493387181" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1594493387176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900/-1920.84.1920.1080/1440.0.1920.1080@0.0.1440.900" timestamp="1594493387176" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1594493387172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900/-1920.84.1920.1080/1440.0.1920.1080@0.0.1440.900" timestamp="1594493387172" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1594493387178">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900/-1920.84.1920.1080/1440.0.1920.1080@0.0.1440.900" timestamp="1594493387178" />
   </component>
 </project>
